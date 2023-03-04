@@ -20,6 +20,7 @@
     "WhileYouWereAwayTps": "Due to auto-buying, your rate increased by <c Yellow>{0} <i ticket>/s</c>.",
     "WhileYouWereAwayMessage": "Display Offline Summary",
     "KeepScreenOn": "Keep Screen On",
+    "RenderUnderNotch": "Display Under Notch",
     "RateInfo": "You've been playing the game for a while now, which probably means you're enjoying it.\nPlease <c Yellow>rate</c> the game, it really helps out! Thanks <3",
     "Rate": "Rate",
     "Attractions": "Attractions",
